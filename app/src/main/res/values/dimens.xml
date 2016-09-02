@@ -1,0 +1,50 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <dimen name="icon_top_margin">24dp</dimen>
+    <dimen name="icon_bottom_margin">24dp</dimen>
+    <dimen name="title_bottom_margin">16dp</dimen>
+    <dimen name="field_width_standard">160dp</dimen>
+
+
+    <dimen name="activity_margin_register">5dp</dimen>
+    <dimen name="activity_margin_mainscreen">30dp</dimen>
+    <dimen name="activity_margin_feedback">20dp</dimen>
+    <dimen name="font_small">11sp</dimen>
+    <dimen name="rating_min_height">19dip</dimen>
+    <dimen name="rating_max_height">19dip</dimen>
+    <dimen name="image_type_height_width">50dp</dimen>
+    <dimen name="drawer_font_size">15.0sp</dimen>
+    <dimen name="ub_view_margin">10.0dip</dimen>
+    <dimen name="ub_search_padding_medium">16.0dip</dimen>
+    <dimen name="ub_textsize_search_small">12.0sp</dimen>
+    <dimen name="ub_textsize_search_big">15.0sp</dimen>
+    <dimen name="ub_textsize_extra_big">45.0sp</dimen>
+    <dimen name="ub_textsize_big">35.0sp</dimen>
+    <dimen name="ub_textsize_medium">18.0sp</dimen>
+    <dimen name="ub_textsize_small">13.0sp</dimen>
+    <dimen name="margin_left_right_bill">20dip</dimen>
+    <dimen name="ub_textsize_huge">60.0sp</dimen>
+
+    <!-- Towber Resolution -->
+    <dimen name="map_margin_bottom">50dp</dimen>
+    <dimen name="gridview_height">280dp</dimen>
+    <dimen name="margin_legt_name_star">110dp</dimen>
+
+
+    <!-- Newly Added for Forgot Password -->
+    <dimen name="dimen_fp_margin">10dp</dimen>
+    <dimen name="dimen_fp_margin_top">20dp</dimen>
+    <dimen name="fp_font_size">20sp</dimen>
+    <dimen name="driver_photo_size">72.67dp</dimen>
+    <dimen name="service_selection_width">270dp</dimen>
+    <dimen name="pin_minute_value">11sp</dimen>
+    <dimen name="pin_minute_text">7.5sp</dimen>
+
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>
